@@ -1,3 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nuno Nebeker</title><link>http://nebeker.github.io/pt/</link><description>Síte pessoal de Nuno Nebeker</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2021-2022, Nuno Nebeker; Todos os direitos reservados. Usa Hugo e Color Your World.</copyright><lastBuildDate>Wed, 09 Jun 2021 21:48:41 +0100</lastBuildDate><atom:link href="http://nebeker.github.io/pt/index.xml" rel="self" type="application/rss+xml"/><item><title>AccessibleDocTool - criar documentos acessíveis</title><link>http://nebeker.github.io/pt/posts/accessibledoctool/</link><pubDate>Wed, 09 Jun 2021 21:48:41 +0100</pubDate><guid>http://nebeker.github.io/pt/posts/accessibledoctool/</guid><description>Envolvi-me nalgumas actividades que justificam a criação de documentos acessíveis a pessoas cegas e deficientes visuais. Em geral, isto significa escolher cuidadosamente tipos de letra e estilos visuais, para melhor legibilidade visual, e usar semântica e estruturas adequadas, para uso com leitores de ecrã. Também é boa idea oferecer formatos de ficheiros diferentes - cada um tem os seus gostos, não é?
-Isso ou representa muito trabalho ou revela-se uma tarefa ideal para templates e automação.</description></item><item><title>eul</title><link>http://nebeker.github.io/pt/posts/eul/</link><pubDate>Fri, 13 Nov 2020 22:34:52 +0000</pubDate><guid>http://nebeker.github.io/pt/posts/eul/</guid><description>Esta semana, fiz a localização para Português de eul. É uma aplicação de monitorização do sistema para macOS com suporte para o Big Sur e inclui alguns widgets interessantes.</description></item><item><title>Rectangle</title><link>http://nebeker.github.io/pt/posts/rectangle/</link><pubDate>Tue, 22 Sep 2020 19:05:13 +0100</pubDate><guid>http://nebeker.github.io/pt/posts/rectangle/</guid><description>Na semana passada contribuí para a aplicação Rectangle com uma localização em Português (Portugal).
-É um gestor de janelas para macOS e merece a minha recomendaçã!</description></item><item><title>Primeiro Post</title><link>http://nebeker.github.io/pt/posts/primeiro-post/</link><pubDate>Tue, 30 Jun 2020 15:09:48 +0100</pubDate><guid>http://nebeker.github.io/pt/posts/primeiro-post/</guid><description>Site criado.</description></item><item><title>Sobre</title><link>http://nebeker.github.io/pt/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://nebeker.github.io/pt/about/</guid><description>Sobre Nuno Nebeker</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuno Nebeker</title>
+    <link>http://nebeker.github.io/pt/</link>
+    <description>Síte pessoal de Nuno Nebeker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>Copyright © 2021, Nuno Nebeker; Todos os direitos reservados. Usa Hugo e Color Your World.</copyright>
+    <lastBuildDate>Wed, 09 Jun 2021 21:48:41 +0100</lastBuildDate><atom:link href="http://nebeker.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Accessibledoctool - criar documentos acessíveis</title>
+        <link>http://nebeker.github.io/pt/posts/accessibledoctool/</link>
+        <pubDate>Wed, 09 Jun 2021 21:48:41 +0100</pubDate>
+        
+        <guid>http://nebeker.github.io/pt/posts/accessibledoctool/</guid>
+        <description>Envolvi-me nalgumas actividades que justificam a criação de documentos acessíveis a pessoas cegas e deficientes visuais. Em geral, isto significa escolher cuidadosamente tipos de letra e estilos visuais, para melhor legibilidade visual, e usar semântica e estruturas adequadas, para uso com leitores de ecrã. Também é boa idea oferecer formatos de ficheiros diferentes - cada um tem os seus gostos, não é?
+Isso ou representa muito trabalho ou revela-se uma tarefa ideal para templates e automação.</description>
+      </item>
+    
+      <item>
+        <title>eul</title>
+        <link>http://nebeker.github.io/pt/posts/eul/</link>
+        <pubDate>Fri, 13 Nov 2020 22:34:52 +0000</pubDate>
+        
+        <guid>http://nebeker.github.io/pt/posts/eul/</guid>
+        <description>Esta semana, fiz a localização para Português de eul. É uma aplicação de monitorização do sistema para macOS com suporte para o Big Sur e inclui alguns widgets interessantes.</description>
+      </item>
+    
+      <item>
+        <title>Rectangle</title>
+        <link>http://nebeker.github.io/pt/posts/rectangle/</link>
+        <pubDate>Tue, 22 Sep 2020 19:05:13 +0100</pubDate>
+        
+        <guid>http://nebeker.github.io/pt/posts/rectangle/</guid>
+        <description>Na semana passada contribuí para a aplicação Rectangle com uma localização em Português (Portugal).
+É um gestor de janelas para macOS e merece a minha recomendaçã!</description>
+      </item>
+    
+      <item>
+        <title>Primeiro Post</title>
+        <link>http://nebeker.github.io/pt/posts/primeiro-post/</link>
+        <pubDate>Tue, 30 Jun 2020 15:09:48 +0100</pubDate>
+        
+        <guid>http://nebeker.github.io/pt/posts/primeiro-post/</guid>
+        <description>Site criado.</description>
+      </item>
+    
+      <item>
+        <title>Sobre</title>
+        <link>http://nebeker.github.io/pt/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://nebeker.github.io/pt/about/</guid>
+        <description>Sobre Nuno Nebeker</description>
+      </item>
+    
+  </channel>
+</rss>

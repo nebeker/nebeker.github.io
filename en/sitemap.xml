@@ -1,1 +1,144 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://nebeker.github.io/posts/accessibledoctool/</loc><lastmod>2021-06-09T21:48:41+01:00</lastmod><xhtml:link rel="alternate" hreflang="pt" href="http://nebeker.github.io/pt/posts/accessibledoctool/"/><xhtml:link rel="alternate" hreflang="en" href="http://nebeker.github.io/posts/accessibledoctool/"/></url><url><loc>http://nebeker.github.io/posts/eul/</loc><lastmod>2020-11-13T22:34:52+00:00</lastmod><xhtml:link rel="alternate" hreflang="pt" href="http://nebeker.github.io/pt/posts/eul/"/><xhtml:link rel="alternate" hreflang="en" href="http://nebeker.github.io/posts/eul/"/></url><url><loc>http://nebeker.github.io/posts/rectangle/</loc><lastmod>2020-09-22T19:05:01+01:00</lastmod><xhtml:link rel="alternate" hreflang="pt" href="http://nebeker.github.io/pt/posts/rectangle/"/><xhtml:link rel="alternate" hreflang="en" href="http://nebeker.github.io/posts/rectangle/"/></url><url><loc>http://nebeker.github.io/posts/my-first-post/</loc><lastmod>2020-06-30T15:13:31+01:00</lastmod></url><url><loc>http://nebeker.github.io/about/</loc><xhtml:link rel="alternate" hreflang="pt" href="http://nebeker.github.io/pt/about/"/><xhtml:link rel="alternate" hreflang="en" href="http://nebeker.github.io/about/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+    <url>
+      <loc>http://nebeker.github.io/posts/accessibledoctool/</loc>
+      
+      
+        <lastmod>2021-06-09T21:48:41+01:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="pt"
+            href="http://nebeker.github.io/pt/posts/accessibledoctool/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://nebeker.github.io/posts/accessibledoctool/"
+          />
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>http://nebeker.github.io/posts/eul/</loc>
+      
+      
+        <lastmod>2020-11-13T22:34:52+00:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="pt"
+            href="http://nebeker.github.io/pt/posts/eul/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://nebeker.github.io/posts/eul/"
+          />
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>http://nebeker.github.io/posts/rectangle/</loc>
+      
+      
+        <lastmod>2020-09-22T19:05:01+01:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="pt"
+            href="http://nebeker.github.io/pt/posts/rectangle/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://nebeker.github.io/posts/rectangle/"
+          />
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>http://nebeker.github.io/posts/my-first-post/</loc>
+      
+      
+        <lastmod>2020-06-30T15:13:31+01:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>http://nebeker.github.io/about/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="pt"
+            href="http://nebeker.github.io/pt/about/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="http://nebeker.github.io/about/"
+          />
+      
+      
+    </url>
+    
+  
+</urlset>
