@@ -4,6 +4,21 @@ e &lt;em lang="en"&gt;wikis&lt;/em&gt;
 e há muitos factores envolvidos na escolha de uma em vez de outra. Já usei WordPress, tanto a versão &lt;em lang="en"&gt;open source&lt;/em&gt;
 como o serviço completo, e já escrevi HTML e CSS à mão, quando isso era o melhor para o projecto. Não vou fazer declarações absolutas sobre qual é a melhor solução de &lt;em lang="en"&gt;blogging&lt;/em&gt;
 , porque acho que isso não existe.&lt;/p&gt;
+&lt;h2 id="conteúdo"&gt;&lt;a class="anchor" href="#conteúdo" title='Âncora para: Conteúdo.'&gt;&lt;svg aria-hidden="true"&gt;&lt;use xlink:href="https://blog.nebeker.tech/img/bundle.min.6d00947a8cc8365db632b6a6fe84ef2a.svg#hashtag"/&gt;&lt;/svg&gt;&lt;/a&gt; Conteúdo&lt;/h2&gt;
+&lt;div&gt;&lt;nav id="TableOfContents"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#conteúdo"&gt;Conteúdo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#a-minha-solução-tecnológica"&gt;A Minha Solução Tecnológica&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#escrever-em-markdown"&gt;Escrever em Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#gerar-páginas-com-hugo"&gt;Gerar Páginas Com Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#alojamento-com-github-pages"&gt;Alojamento Com GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="#a-parte-do-cms"&gt;A Parte do CMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#recomendaria-isto"&gt;Recomendaria Isto?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;&lt;/div&gt;
 &lt;h2 id="a-minha-solução-tecnológica"&gt;&lt;a class="anchor" href="#a-minha-solução-tecnológica" title='Âncora para: A Minha Solução Tecnológica.'&gt;&lt;svg aria-hidden="true"&gt;&lt;use xlink:href="https://blog.nebeker.tech/img/bundle.min.6d00947a8cc8365db632b6a6fe84ef2a.svg#hashtag"/&gt;&lt;/svg&gt;&lt;/a&gt; A Minha Solução Tecnológica&lt;/h2&gt;
 &lt;p&gt;Aquilo que procuro é:&lt;/p&gt;</description></item><item><title>A Coisinha Não Fez A Coisa!</title><link>https://blog.nebeker.tech/pt/posts/the-thingy-didnt-do-the-thing/</link><pubDate>Sat, 30 Sep 2023 19:04:39 +0100</pubDate><author>nuno@nebeker.tech (Nuno Nebeker)</author><guid>https://blog.nebeker.tech/pt/posts/the-thingy-didnt-do-the-thing/</guid><description>&lt;p&gt;Tenho algumas ideias para partilhar sobre desenho de interface de utilizador. Isto vem da perspectiva de alguém que está envolvido em desenho de interfaces, na qualidade de &lt;em&gt;full-stack developer&lt;/em&gt;. O leitor pode não se considerar envolvido em desenho de interfaces, mas se o seu trabalho faz coisas que interagem com pessoas - através de uma &amp;ldquo;interface&amp;rdquo;, por assim dizer - provavelmente está envolvido. Estas ideias passam por assumir responsabilidade pelos nossos desenhos, e não quero fazer o leitor sentir-se desconfortável, nem quero trazer o meu próprio trabalho à baila, por isso consideremos um cenário fictício.&lt;/p&gt;</description></item><item><title>Accessibledoctool - criar documentos acessíveis</title><link>https://blog.nebeker.tech/pt/posts/accessibledoctool/</link><pubDate>Wed, 09 Jun 2021 21:48:41 +0100</pubDate><author>nuno@nebeker.tech (Nuno Nebeker)</author><guid>https://blog.nebeker.tech/pt/posts/accessibledoctool/</guid><description>&lt;p&gt;Envolvi-me nalgumas actividades que justificam a criação de documentos acessíveis
 a pessoas cegas e deficientes visuais. Em geral, isto significa escolher cuidadosamente
